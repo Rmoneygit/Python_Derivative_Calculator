@@ -1,0 +1,4 @@
+
+STATE_TABLE = [[1, 3, 0, 5], [1, 2, 2, 2], [0, 0, 0, 0], [4, 3, 4, 4], [0, 0, 0, 0], [0, 0, 0, 0]]
+ALPHA = 'ABCDEFGHIJKLMNIOPQRSTUVWXYZ'
+DIGITS = '0123456789'
